@@ -1,0 +1,23 @@
+﻿using System;
+
+namespace squareArea
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //rectangle area calc.
+
+            //rectangle values
+            float sideA = 10.0f;
+            float sideB = 1;
+            //rectangle area formula is a*b
+            float area = sideA * sideB;
+
+            
+            Console.WriteLine("The rectangle area: " + area);
+
+            ///akf
+        }
+    }
+}

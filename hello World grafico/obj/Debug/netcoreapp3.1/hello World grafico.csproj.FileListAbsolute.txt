@@ -1,0 +1,20 @@
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\hello World grafico\bin\Debug\netcoreapp3.1\hello World grafico.exe
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\hello World grafico\bin\Debug\netcoreapp3.1\hello World grafico.deps.json
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\hello World grafico\bin\Debug\netcoreapp3.1\hello World grafico.runtimeconfig.json
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\hello World grafico\bin\Debug\netcoreapp3.1\hello World grafico.runtimeconfig.dev.json
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\hello World grafico\bin\Debug\netcoreapp3.1\hello World grafico.dll
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\hello World grafico\bin\Debug\netcoreapp3.1\hello World grafico.pdb
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\hello World grafico\obj\Debug\netcoreapp3.1\hello World grafico.csproj.AssemblyReference.cache
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\hello World grafico\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\hello World grafico\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\hello World grafico\obj\Debug\netcoreapp3.1\hello World grafico_MarkupCompile.cache
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\hello World grafico\obj\Debug\netcoreapp3.1\hello World grafico_MarkupCompile.lref
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\hello World grafico\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\hello World grafico\obj\Debug\netcoreapp3.1\hello World grafico.g.resources
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\hello World grafico\obj\Debug\netcoreapp3.1\hello World grafico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\hello World grafico\obj\Debug\netcoreapp3.1\hello World grafico.AssemblyInfoInputs.cache
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\hello World grafico\obj\Debug\netcoreapp3.1\hello World grafico.AssemblyInfo.cs
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\hello World grafico\obj\Debug\netcoreapp3.1\hello World grafico.csproj.CoreCompileInputs.cache
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\hello World grafico\obj\Debug\netcoreapp3.1\hello World grafico.dll
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\hello World grafico\obj\Debug\netcoreapp3.1\hello World grafico.pdb
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\hello World grafico\obj\Debug\netcoreapp3.1\hello World grafico.genruntimeconfig.cache
