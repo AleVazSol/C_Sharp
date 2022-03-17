@@ -10,10 +10,14 @@ namespace descending_order
             int[] numbers;
             int[] sortedNumbers;
 
+            //obtain the lenght of the array
+
             Console.WriteLine("How many numbers you want to sort?");
             numbersQty = Convert.ToInt32(Console.ReadLine());
             numbers = new int[numbersQty];
             sortedNumbers = new int[numbersQty];
+
+            //Load the array with the numbers to be sorted
 
             for (int i = 0; i < numbersQty; i++)
             {
@@ -21,6 +25,8 @@ namespace descending_order
                 Console.WriteLine("Please Enter a number: ");
                 numbers[i] = Convert.ToInt32(Console.ReadLine());
             }
+
+            //Order algorithm
 
             for (int i = 0; i < numbersQty; i++)
             {
@@ -41,6 +47,8 @@ namespace descending_order
 
             Console.Clear();
             Console.WriteLine("Numbers in descending order: ");
+
+            // Show the ordered array
 
             for (int i = 0; i < numbersQty; i++)
             {
