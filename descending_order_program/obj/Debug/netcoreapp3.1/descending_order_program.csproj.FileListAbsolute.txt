@@ -1,0 +1,14 @@
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\descending_order_program\bin\Debug\netcoreapp3.1\descending_order_program.exe
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\descending_order_program\bin\Debug\netcoreapp3.1\descending_order_program.deps.json
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\descending_order_program\bin\Debug\netcoreapp3.1\descending_order_program.runtimeconfig.json
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\descending_order_program\bin\Debug\netcoreapp3.1\descending_order_program.runtimeconfig.dev.json
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\descending_order_program\bin\Debug\netcoreapp3.1\descending_order_program.dll
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\descending_order_program\bin\Debug\netcoreapp3.1\descending_order_program.pdb
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\descending_order_program\obj\Debug\netcoreapp3.1\descending_order_program.csproj.AssemblyReference.cache
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\descending_order_program\obj\Debug\netcoreapp3.1\descending_order_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\descending_order_program\obj\Debug\netcoreapp3.1\descending_order_program.AssemblyInfoInputs.cache
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\descending_order_program\obj\Debug\netcoreapp3.1\descending_order_program.AssemblyInfo.cs
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\descending_order_program\obj\Debug\netcoreapp3.1\descending_order_program.csproj.CoreCompileInputs.cache
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\descending_order_program\obj\Debug\netcoreapp3.1\descending_order_program.dll
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\descending_order_program\obj\Debug\netcoreapp3.1\descending_order_program.pdb
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\descending_order_program\obj\Debug\netcoreapp3.1\descending_order_program.genruntimeconfig.cache
