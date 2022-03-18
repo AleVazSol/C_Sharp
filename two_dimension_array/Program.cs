@@ -9,6 +9,7 @@ namespace two_dimension_array
             int[,] array_a, array_b, array_c;
             int rows,cols;
 
+            //Define the size of the arrays
             Console.WriteLine("Enter the number of rows that your arrays have:");
             rows = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter the number of columns that your arrays have:");
@@ -18,6 +19,7 @@ namespace two_dimension_array
             array_b = new int[rows,cols];
             array_c = new int[rows, cols];
 
+            //Fill array a
             Console.Clear();
             Console.WriteLine("Fill the Firts array");
 
@@ -30,6 +32,7 @@ namespace two_dimension_array
                 }
             }
 
+            //Fill array b
             Console.WriteLine("Fill the Second array");
 
             for(int i = 0; i < rows; i++)
@@ -41,6 +44,7 @@ namespace two_dimension_array
                 }
             }
 
+            // sum array a and array b
             for (int i = 0; i < rows; i++)
             {
                 for (int j = 0; j < cols; j++)
@@ -49,6 +53,7 @@ namespace two_dimension_array
                 }
             }
 
+            //print all the arrays and the result of the sum
             Console.Clear();
             Console.WriteLine("Array A:");
 
@@ -83,6 +88,7 @@ namespace two_dimension_array
                 Console.WriteLine();
             }
             
+            //end of program
             Console.ReadLine();
         }
     }
