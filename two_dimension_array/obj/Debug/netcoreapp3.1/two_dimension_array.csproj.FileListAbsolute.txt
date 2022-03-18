@@ -1,0 +1,14 @@
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\two_dimension_array\bin\Debug\netcoreapp3.1\two_dimension_array.exe
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\two_dimension_array\bin\Debug\netcoreapp3.1\two_dimension_array.deps.json
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\two_dimension_array\bin\Debug\netcoreapp3.1\two_dimension_array.runtimeconfig.json
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\two_dimension_array\bin\Debug\netcoreapp3.1\two_dimension_array.runtimeconfig.dev.json
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\two_dimension_array\bin\Debug\netcoreapp3.1\two_dimension_array.dll
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\two_dimension_array\bin\Debug\netcoreapp3.1\two_dimension_array.pdb
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\two_dimension_array\obj\Debug\netcoreapp3.1\two_dimension_array.csproj.AssemblyReference.cache
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\two_dimension_array\obj\Debug\netcoreapp3.1\two_dimension_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\two_dimension_array\obj\Debug\netcoreapp3.1\two_dimension_array.AssemblyInfoInputs.cache
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\two_dimension_array\obj\Debug\netcoreapp3.1\two_dimension_array.AssemblyInfo.cs
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\two_dimension_array\obj\Debug\netcoreapp3.1\two_dimension_array.csproj.CoreCompileInputs.cache
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\two_dimension_array\obj\Debug\netcoreapp3.1\two_dimension_array.dll
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\two_dimension_array\obj\Debug\netcoreapp3.1\two_dimension_array.pdb
+C:\Users\CLAUD\OneDrive\Documentos\Platzi\C_Sharp\two_dimension_array\obj\Debug\netcoreapp3.1\two_dimension_array.genruntimeconfig.cache
